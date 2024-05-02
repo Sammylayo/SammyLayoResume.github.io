@@ -1,0 +1,7 @@
+/* Reset styles to remove default browser styling */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Other generic styles */
